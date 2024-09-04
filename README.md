@@ -1,1 +1,1 @@
-# php-mysql
+# Базовая среда разработки в Codespaces
